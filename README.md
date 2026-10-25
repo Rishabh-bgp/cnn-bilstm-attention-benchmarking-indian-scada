@@ -10,7 +10,7 @@ Performance benchmarking of a hybrid CNN-BiLSTM-Attention deep learning model fo
 
 **Live demo:** https://rishabh-bgp.github.io/cnn-bilstm-attention-benchmarking-indian-scada/ (runs entirely in your browser on synthetic data)
 
-**About the demo design.** The page uses a Daoist, Chinese-ink style: crimson, charcoal and navy with gold accents, brush-style headings in the Ma Shan Zheng font, and charts drawn in gold, red and ink. Each repository has its own trigram. This one is **乾 ☰ (Qián, Heaven)**. 乾 (Qián) is heaven: the firm, creative standard. It suits a paper about measuring models against a common yardstick. The red seal stamp (印) carries the initials RA, the faint taiji and the row of eight Bagua trigrams stand for balance and change, the cloud scrolls stand for moving air, and the vertical motto 天行健 means "Heaven moves with strength". The design is purely decorative. Everything is computed by the model shown, on synthetic data.
+**About the demo design.** The page uses a Daoist, Chinese-ink style: crimson, charcoal and navy with gold accents, brush-style headings in the Ma Shan Zheng font, and charts drawn in gold, red and ink. Each repository has its own trigram. This one is **乾 ☰ (Qián, Heaven)**. 乾 (Qián) is heaven: the firm, creative standard. It suits a paper about measuring models against a common yardstick. The red seal stamp (印) carries the initials RA, the faint taiji and the row of eight Bagua trigrams stand for balance and change, and the vertical motto 天行健 means "Heaven moves with strength". The design is purely decorative. Everything is computed by the model shown, on synthetic data.
 
 ## What this repository implements
 
